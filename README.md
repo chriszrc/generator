@@ -54,6 +54,7 @@ This generator can also be further configured with the following command line fl
 
 ## Additions
 These are the additions that do not come with the standard express generator. 
+1. Add option for no view engine, we're restful round these parts
 1. Nodemon for livereload by default
 1. Dotenv - cause who doesn't need this
 1. Helmet - you've got yours on right?
