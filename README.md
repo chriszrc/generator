@@ -51,6 +51,15 @@ This generator can also be further configured with the following command line fl
     -f, --force          force on non-empty directory
     -h, --help           output usage information
 
+
+## Additions
+These are the additions that do not come with the standard express generator. 
+1. Nodemon for livereload by default
+1. Dotenv - cause who doesn't need this
+1. Helmet - you've got yours on right?
+1. 
+
+
 ## License
 
 [MIT](LICENSE)
