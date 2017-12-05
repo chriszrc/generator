@@ -60,6 +60,8 @@ These are the additions that do not come with the standard express generator.
 1. Helmet - you've got yours on right?
 1. 
 
+For the postgres version of the generator, we'd preload all of the depedencies and basic setup described here - https://node-postgres.com/guides/async-express
+
 
 ## License
 
