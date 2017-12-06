@@ -61,7 +61,7 @@ These are the additions that do not come with the standard express generator.
 1. 
 
 For the postgres version of the generator, we'd preload all of the depedencies and basic setup described here - https://node-postgres.com/guides/async-express. And then add data submissions specific dependencies:
-1. AJV - for basic json schema validation
+1. AJV - for basic json schema validation -https://epoberezkin.github.io/ajv/#assigning-defaults
 1. 
 
 
