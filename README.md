@@ -58,7 +58,7 @@ These are the additions that do not come with the standard express generator.
 1. Nodemon for livereload by default
 1. Dotenv - cause who doesn't need this
 1. Helmet - you've got yours on right?
-1. Cors - enable or at least provide by default to be enabled
+1. Cors - enable or at least provide by default to be enabled - https://github.com/expressjs/cors
 
 For the postgres version of the generator, we'd preload all of the depedencies and basic setup described here - https://node-postgres.com/guides/async-express. And then add data submissions specific dependencies:
 1. AJV - for basic json schema validation -https://epoberezkin.github.io/ajv/#assigning-defaults
